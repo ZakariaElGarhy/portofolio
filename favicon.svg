@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title desc">
+  <title id="title">Zakaria favicon</title>
+  <desc id="desc">A warm editorial Z monogram for Zakaria El Garhy</desc>
+  <rect width="64" height="64" rx="16" fill="#f4efe6"/>
+  <path d="M14 16h36L18 48h32" fill="none" stroke="#161515" stroke-width="7" stroke-linecap="square" stroke-linejoin="miter"/>
+  <path d="M14 16h12" stroke="#ae5a3e" stroke-width="7" stroke-linecap="square"/>
+  <circle cx="50" cy="48" r="4" fill="#ae5a3e"/>
+</svg>
